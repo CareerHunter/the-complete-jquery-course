@@ -15,4 +15,4 @@
 
 ---
 
-[Previous](./6_Code-is-Accessible-on-GitHub.md) | [Next]()
+[Previous](./6_Code-is-Accessible-on-GitHub.md) | [Next](./8_Fading-In-Elements-(and-Fading-Them-Out-Again).md)

@@ -29,7 +29,7 @@ Use jQuery to create stunning animations, provide fast feedback forms, handle al
   <summary> Section 2: Effects - Animations </summary>
 
   7. [Setting Up The jQuery Project](contents/7_Setting-Up-The-jQuery-Project.md)   
-  
+  8. [Fading In Elements (and Fading Them Out Again)](./contents/8_Fading-In-Elements-(and-Fading-Them-Out-Again).md)
 </details>
 
 <details>
