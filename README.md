@@ -28,7 +28,14 @@ Use jQuery to create stunning animations, provide fast feedback forms, handle al
 <details>
   <summary> Section 2: Effects - Animations </summary>
 
-  7. Setting Up The jQuery Project   
+  7. [Setting Up The jQuery Project](contents/7_Setting-Up-The-jQuery-Project.md)   
+  
+</details>
+
+<details>
+  <summary> Section 3: Element Selectors </summary>
+
+  17. Using CSS Selectors in jQuery   
 </details>
 
 

@@ -16,4 +16,4 @@ Cheers,
 
 ---
 
-[Previous](./4_Overview-of-JavaScript-Frameworks.md) | [Next]()
+[Previous](./4_Overview-of-JavaScript-Frameworks.md) | [Next](./7_Setting-Up-The-jQuery-Project.md)
