@@ -9,4 +9,4 @@
 
 ---
 
-[Previous]() | [Next]()
+[Previous]() | [Next](./6_Code-is-Accessible-on-GitHub.md)

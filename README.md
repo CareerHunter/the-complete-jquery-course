@@ -21,6 +21,8 @@ Use jQuery to create stunning animations, provide fast feedback forms, handle al
   2. How To Use This Course To Gain Its Maximum Benefits & Learn jQuery Quickly 
   3. A Quick Overview of JavaScript and jQuery
   4. [Overview of JavaScript Frameworks](contents/4_Overview-of-JavaScript-Frameworks.md)
+  5. Setting Up The Editor
+  6. [Code is Accessible on GitHub](contents/6_Code-is-Accessible-on-GitHub.md)
 </details>
 
 <details>
